@@ -1,0 +1,3 @@
+database user: gurupandit
+database password: gurupandit
+connection: mongodb+srv://gurupandit:<password>@cluster0.vrbkh.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
